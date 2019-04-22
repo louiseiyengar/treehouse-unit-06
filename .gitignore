@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# example html to view what project should look like
+example-html/
+
+# example image files
+mockups/
+
+# images not to deploy
+images_save/

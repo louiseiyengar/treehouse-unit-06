@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This project shows a quote randomly selected from an array. The quotes and background color will change every 10 seconds or will change with the click of a button.  The quotes will be authored either by Jane Austen, Charles Dickens, or Oscar Wilde.",
+            "technologies": ["JavaScript", "HTML5", "CSS"],
+            "live_link": "https://louiseiyengar.github.io/treehouse-unit-01/",
+            "github_link": "https://github.com/louiseiyengar/treehouse-unit-01",
+            "image_urls": ["/static/img/project_1_thumbnail.jpg", "static/img/projects/project_1_1.jpg", "static/img/projects/project_1_2.jpg", "static/img/projects/project_1_3.jpg"]
+        },
+        {
+            "id": 1,
+            "project_name": "List Pagination and Filtering",
+            "description": "For this project, I used JavaScript to paginate a long list of students and implement a search form to find students by name.",
+            "technologies": ["JavaScript","HTML5", "CSS"],
+            "live_link": "https://louiseiyengar.github.io/treehouse-unit-02/",
+            "github_link": "https://github.com/louiseiyengar/treehouse-unit-02",
+            "image_urls": ["/static/img/project_2_thumbnail.jpg", "static/img/projects/project_2_1.jpg", "static/img/projects/project_2_2.jpg"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "This is a form validation project, done without using HTML5 validation. Validation is done using jQuery and Regular Expression tests.",
+            "technologies": ["jQuery", "HTML5", "CSS"],
+            "live_link": "https://louiseiyengar.github.io/treehouse-unit-03/",
+            "github_link": "https://github.com/louiseiyengar/treehouse-unit-03",
+            "image_urls": ["/static/img/project_3_thumbnail.jpg", "static/img/projects/project_3_1.jpg", "static/img/projects/project_3_2.jpg"]
+        }
+    ]
+}

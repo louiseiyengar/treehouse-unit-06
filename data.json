@@ -12,7 +12,7 @@
         {
             "id": 1,
             "project_name": "List Pagination and Filtering",
-            "description": "For this project, I used JavaScript to paginate a long list of students and implement a search form to find students by name.",
+            "description": "For this project, I used JavaScript to paginate a long list of students and implement a search form to find students by name. The first screen shot shows a list of 54 students paginated 10 per page.  The second screen shot shows a search form that will filter students by name as you type in the search form field.",
             "technologies": ["JavaScript","HTML5", "CSS"],
             "live_link": "https://louiseiyengar.github.io/treehouse-unit-02/",
             "github_link": "https://github.com/louiseiyengar/treehouse-unit-02",
@@ -21,11 +21,11 @@
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "This is a form validation project, done without using HTML5 validation. Validation is done using jQuery and Regular Expression tests.",
+            "description": "This is a form validation project, done without using HTML5 validation. Validation is done using jQuery and Regular Expression tests.  The first screen shot shows the message that will appear if the form is submitted without all fields being validated.  The second screen shot shows that the form will not allow registration for activities that occur at the same time -- when an activity is clicked, an activity ocurring at the same time will be disabled.  The third screen shot shows an error message that will occur if payment information is entered with no activity chosen.",
             "technologies": ["jQuery", "HTML5", "CSS"],
             "live_link": "https://louiseiyengar.github.io/treehouse-unit-03/",
             "github_link": "https://github.com/louiseiyengar/treehouse-unit-03",
-            "image_urls": ["/static/img/project_3_thumbnail.jpg", "static/img/projects/project_3_1.jpg", "static/img/projects/project_3_2.jpg"]
+            "image_urls": ["/static/img/project_3_thumbnail.jpg", "static/img/projects/project_3_1.jpg", "static/img/projects/project_3_2.jpg", "static/img/projects/project_3_3.jpg"]
         }
     ]
 }

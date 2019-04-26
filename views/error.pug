@@ -1,0 +1,16 @@
+extends layout.pug
+
+block content
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← View Portfolio Projects
+  article.grid-container
+    .grid-x
+      .cell.small-6.medium-9.large-9.error-message
+        h3= error.message
+        .cell.shrink
+            img.thumbnail.error(src='/static/img/error.jpg' alt="Sad Error Face")
+        .cell.auto
+        h6 The status of this error: #{error.status}
+        .error-stack
+            h6 Error Stack Information: 
+            p #{error.stack}

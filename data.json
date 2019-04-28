@@ -26,6 +26,24 @@
             "live_link": "https://louiseiyengar.github.io/treehouse-unit-03/",
             "github_link": "https://github.com/louiseiyengar/treehouse-unit-03",
             "image_urls": ["/static/img/project_3_thumbnail.jpg", "static/img/projects/project_3_1.jpg", "static/img/projects/project_3_2.jpg", "static/img/projects/project_3_3.jpg"]
+        },
+        {
+            "id": 3,
+            "project_name": "Book Title Hunter",
+            "description": "For this Object-oriented JavaScript project, I created a word game in which you need to guess the letters of a book title -- generally a well known American or English novel or play. You guess the letters by typing a letter on your keyboard or clicking the buttons on an on-screen keyboard. You have five tries - each incorrect guess will lose you one heart. In addition, I added a feature allowing you to see the author of the book, but it will cost one heart (try). On your fourth wrong guess, the option to see the author will disappear. After five wrong guesses, or if you correctly select all the letters in the title, you will see a screen indicating whether you won or lost, and displaying the book's title and author.",
+            "technologies": ["Object-oriented JavaScript", "HTML5", "CSS"],
+            "live_link": "https://louiseiyengar.github.io/treehouse-unit-04/",
+            "github_link": "https://github.com/louiseiyengar/treehouse-unit-04",
+            "image_urls": ["/static/img/project_4_thumbnail.png", "static/img/projects/project_4_1.png", "static/img/projects/project_4_2.png", "static/img/projects/project_4_3.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Employee Directory using Public API Request",
+            "description": "For this project, I requested, via the Fetch API interface, 12 employees from https://randomuser.me/. Employees are from Australia, United Kingdom, New Zealand, and the United States. If you click an employee, a modal will appear with further information about the employee. In addition, there is a search form field allowing you to filter employees by name. If you submit even a partial portion of the name (including just one letter), employees whose full names, first name, or last name match what has been entered will appear on the web page.",
+            "technologies": ["JavaScript's Fetch API interface", "JavaScript", "HTML5", "CSS"],
+            "live_link": "https://louiseiyengar.github.io/treehouse-unit-05/",
+            "github_link": "https://github.com/louiseiyengar/treehouse-unit-05",
+            "image_urls": ["/static/img/project_5_thumbnail.jpg", "static/img/projects/project_5_1", "static/img/projects/project_5_2"]
         }
     ]
 }

@@ -149,6 +149,10 @@ a:hover{
     line-height: 25px;
 }
 
+.portfolio-bio p {
+  padding-bottom: 7px;
+}
+
 img.error {
   padding: 4px;
   border: 1px dotted #777777;

@@ -30,7 +30,7 @@
         {
             "id": 3,
             "project_name": "Book Title Hunter",
-            "description": "For this Object-oriented JavaScript project, I created a word game in which you need to guess the letters of a book title -- generally a well known American or English novel or play. You guess the letters by typing a letter on your keyboard or clicking the buttons on an on-screen keyboard. You have five tries - each incorrect guess will lose you one heart. In addition, I added a feature allowing you to see the author of the book, but it will cost one heart (try). On your fourth wrong guess, the option to see the author will disappear. After five wrong guesses, or if you correctly select all the letters in the title, you will see a screen indicating whether you won or lost, and displaying the book's title and author.",
+            "description": "For this object-oriented JavaScript project, I created a word game in which you need to guess the letters of a book title -- generally a well known American or English novel or play. You guess the letters by typing a letter on your keyboard or clicking the buttons on an on-screen keyboard. You have five tries - each incorrect guess will lose you one heart. In addition, I added a feature allowing you to see the author of the book, but it will cost one heart (try). On your fourth wrong guess, the option to see the author will disappear. After five wrong guesses, or if you correctly select all the letters in the title, you will see a screen indicating whether you won or lost, and displaying the book's title and author.",
             "technologies": ["Object-oriented JavaScript", "HTML5", "CSS"],
             "live_link": "https://louiseiyengar.github.io/treehouse-unit-04/",
             "github_link": "https://github.com/louiseiyengar/treehouse-unit-04",
@@ -38,12 +38,21 @@
         },
         {
             "id": 4,
-            "project_name": "Employee Directory using Public API Request",
+            "project_name": "Employee Directory using a Public API Request",
             "description": "For this project, I requested, via the Fetch API interface, 12 employees from https://randomuser.me/. Employees are from Australia, United Kingdom, New Zealand, and the United States. If you click an employee, a modal will appear with further information about the employee. In addition, there is a search form field allowing you to filter employees by name. If you submit even a partial portion of the name (including just one letter), employees whose full names, first name, or last name match what has been entered will appear on the web page.",
             "technologies": ["JavaScript's Fetch API interface", "JavaScript", "HTML5", "CSS"],
             "live_link": "https://louiseiyengar.github.io/treehouse-unit-05/",
             "github_link": "https://github.com/louiseiyengar/treehouse-unit-05",
             "image_urls": ["/static/img/project_5_thumbnail.jpg", "static/img/projects/project_5_1", "static/img/projects/project_5_2"]
+        },
+        {
+            "id": 5,
+            "project_name": "Responsive Design with Moveable Modal Box",
+            "description": "I was given a .jpg file with a design for the first part of T.S. Eliot's The Waste Land.  I created a responsive design, using SCSS and HTML5, to replicate the image as web page.  In addition, I added modal notecards, so that when you click on a footnote, a modal notecard will appear with TS Eliot's footnotes and other information, as appropriate.  Except on mobile devices, the modal boxes can be moved about the screen by clicking and holding the mouse on the modal notecard.",
+            "technologies": ["JavaScript", "SCSS (SASS)", "HTML5"],
+            "live_link": "http://oit2.scps.nyu.edu/~iyengarl/final/app/",
+            "github_link": "https://github.com/louiseiyengar/frontend-final",
+            "image_urls": ["/static/img/project_6_thumbnail.jpg", "static/img/projects/project_5_1", "static/img/projects/project_5_2"]
         }
     ]
 }

@@ -1,16 +1,16 @@
 const express = require('express');
 const router = express.Router();
 
+const myName = "Louise Iyengar"
 const {projects} = require('../data.json');
 
 router.get('/', (req, res) => {
-    const myName = "Louise Iyengar"
     res.render('index', {projects, myName});
 });
 
 router.get('/about', (req, res) => {
     res.locals.noAboutLink = true;
-    res.render('about');
+    res.render('about', {myName});
 });
 
 router.get('/project/:id', (req, res, next) => {

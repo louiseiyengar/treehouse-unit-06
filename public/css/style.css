@@ -169,3 +169,46 @@ img.error {
   padding-top: 2rem;
   text-align: left;
 }
+
+/* Added styles */
+h1 {
+  font-family: 'Patua One', cursive;
+  color: #555;
+}
+
+p.lead {
+  font-family: "Roboto", sans-serif;
+  font-size: 150%;
+}
+.portfolio-me p {
+  color: #f3f0f0;
+  font-family: "Roboto";
+}
+
+.portfolio-me a {
+  color: #444;
+}
+
+.off-canvas-content {
+  /* background-color: #e6e2e2; */
+}
+
+.position-left {
+  background-color: #7c7c7f;
+  color: #fff;
+}
+.cell h5 {
+  font-family: 'Patua One', cursive;
+  color: #fff;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.cell a h5 {
+  color: #868484;
+}
+.cell img:hover {
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 3px 3px 10px #555;
+    transition: ease-in .4s;
+}

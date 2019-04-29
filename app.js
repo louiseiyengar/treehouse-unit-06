@@ -12,8 +12,7 @@ app.use(routes);
 
 const create404Error = () => {
     const err = new Error('Sorry! You requested a page that does not exist.');
-    err.status = 404
-    console.log(`${err.message} / Status Error #: ${err.status}`);
+    err.status = 404;
     return err;
 }
 
@@ -21,7 +20,8 @@ app.use((req, res, next) => {
     next(create404Error());
 });
 
-app.use((err, req, res, next) => {  
+app.use((err, req, res, next) => {
+    console.log(`${err.message} / Status Error #: ${err.status}`); 
     res.locals.error = err;
     res.status(err.status || 500);
     res.render('error');

@@ -1,8 +1,10 @@
 const express = require('express');
+const path = require('path');
 const app = express();
 
-app.use('/static', express.static('public'));
+app.use('/static', express.static(path.join(__dirname, 'public')));
 
+app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
 
 const routes = require('./routes');
@@ -11,6 +13,7 @@ app.use(routes);
 const create404Error = () => {
     const err = new Error('Sorry! You requested a page that does not exist.');
     err.status = 404
+    console.log(`${err.message} / Status Error #: ${err.status}`);
     return err;
 }
 

@@ -178,19 +178,54 @@ h1 {
 
 p.lead {
   font-family: "Roboto", sans-serif;
-  font-size: 150%;
+  font-size: 1rem;
 }
+
+.portfolio-project p.lead {
+  border-bottom: 0;
+}
+
+a.expanded {
+  background-color: #7c7c7f;
+}
+
+a.expanded:visited {
+  background-color: #7c7c7f;
+  color: white;
+}
+
+a.expanded:hover {
+  box-shadow: 3px 3px 10px #555;
+  transition: ease-in .4s;
+  background-color: #fff;
+  color: gray;
+}
+
+.portfolio-intro p {
+  border-bottom: 1px solid #80808269;
+}
+
 .portfolio-me p {
-  color: #f3f0f0;
-  font-family: "Roboto";
+  color: #e2e1e1;
+  font-family: "Roboto", sans-serif;
 }
 
 .portfolio-me a {
   color: #444;
 }
 
-.off-canvas-content {
-  /* background-color: #e6e2e2; */
+.portfolio-bio p {
+  border-bottom: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+}
+
+.portfolio-project p.lead {
+  border-bottom: 1px solid #80808269;
+}
+
+.portfolio-project p.no-line {
+  border-bottom: 0;
 }
 
 .position-left {
@@ -207,6 +242,7 @@ p.lead {
 .cell a h5 {
   color: #868484;
 }
+
 .cell img:hover {
     background: rgba(255, 255, 255, 1);
     box-shadow: 3px 3px 10px #555;

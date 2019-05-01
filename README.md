@@ -13,3 +13,6 @@ I made design modifications on all pages of the site.  The modifications were ad
 4) I changed the background and text color for the sidebar.
 5) I changed the background color, font color, and hover background color for all buttons.  I also added box shadow and ease-in transitions for the hover state of the buttons.
 6) On the Portfolio of Projects page, I added box shadow and ease-in transitions to the hover state of each project's image.
+
+Screenshot of Portfolo of Projects page:
+![Unit06Example](https://user-images.githubusercontent.com/42808209/57050298-e44a5580-6c49-11e9-9317-0d385f35e66b.jpg)

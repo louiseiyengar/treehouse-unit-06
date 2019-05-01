@@ -170,7 +170,7 @@ img.error {
   text-align: left;
 }
 
-/* Added styles */
+/* Styles Added by Louise Iyengar*/
 h1 {
   font-family: 'Patua One', cursive;
   color: #555;
@@ -195,7 +195,7 @@ a.expanded:visited {
 }
 
 a.expanded:hover {
-  box-shadow: 3px 3px 10px #555;
+  box-shadow: 3px 3px 4px #555;
   transition: ease-in .4s;
   background-color: #fff;
   color: gray;
@@ -216,6 +216,7 @@ a.expanded:hover {
 
 .portfolio-bio p {
   border-bottom: 0;
+  padding-bottom: 0;
   font-family: "Roboto", sans-serif;
   font-size: 1rem;
 }

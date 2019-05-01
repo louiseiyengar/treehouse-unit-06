@@ -2,7 +2,7 @@
 
 For this project, I used Node.js, Express, and Pug for template rendering.  
 
-The project displays six websites I created in which the functionality was added using front-end JavaScript code.  The site also contains information about my career as a web developer, as well as a button allowing a user to view my resume.  
+The project displays six websites I created in which functionality was added using front-end JavaScript code.  The site also contains information about my career as a web developer, as well as a button allowing a user to view my resume.  
 
 ======= Design Modifications ======================
 

@@ -12,4 +12,4 @@ I made design modifications on all pages of the site.  The modifications were ad
 3) I adjusted padding and line height for certain paragraphs in the site.
 4) I changed the background and text color for the sidebar.
 5) I changed the background color, font color, and hover background color for all buttons.  I also added box shadow and ease-in transitions for the hover state of the buttons.
-6)On the Portfolio of Projects page, I added box shadow and ease-in transitions to the hover state of each project's image.
+6) On the Portfolio of Projects page, I added box shadow and ease-in transitions to the hover state of each project's image.

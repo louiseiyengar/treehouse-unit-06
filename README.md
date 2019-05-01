@@ -7,9 +7,9 @@ The project displays six websites I created in which the functionality was added
 ======= Design Modifications ======================
 
 I made design modifications on all pages of the site.  The modifications were added to the bottom of the styles.css file.
-I changed the font family and font color of the header tags.
-I changed the font family, font size, and text color for all paragraphs.
-I adjusted padding and line height for certain paragraphs in the site.
-I changed the background and text color for the sidebar.
-I changed the background color, font color, and hover background color for all buttons.  I also added box shadow and ease-in transitions for the hover state of the buttons.
-On the Portfolio of Projects page, I added box shadow and ease-in transitions to the hover state of each project's image.
+1) I changed the font family and font color of the header tags.
+2) I changed the font family, font size, and text color for all paragraphs.
+3) I adjusted padding and line height for certain paragraphs in the site.
+4) I changed the background and text color for the sidebar.
+5) I changed the background color, font color, and hover background color for all buttons.  I also added box shadow and ease-in transitions for the hover state of the buttons.
+6)On the Portfolio of Projects page, I added box shadow and ease-in transitions to the hover state of each project's image.

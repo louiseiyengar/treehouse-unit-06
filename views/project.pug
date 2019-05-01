@@ -5,7 +5,7 @@ block content
     a(href='/') ← Back to Portfolio of Projects
   article.grid-container.portfolio-intro.portfolio-project
     .grid-x
-      .cell.small-6.medium-9.large-9
+      .cell.small-6.medium-9.large-9.one-project
         h1= project.project_name
 
         p.lead.text-light.no-line= project.description
@@ -19,6 +19,6 @@ block content
 
         a.button.expanded(href=`${project.live_link}` target='_blank') Live Demo
         a.button.expanded(href=`${project.github_link}` target='_blank') GitHub Repo
-        
+
     - for (i = 1; i < project.image_urls.length; i++)
         img.image(src=`/static/img/projects/project_${parseInt(id) + 1}_${i}.jpg`)

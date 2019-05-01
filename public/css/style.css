@@ -211,7 +211,11 @@ a.expanded:hover {
 }
 
 .portfolio-me a {
-  color: #444;
+  color: #bdb5b5c7;
+}
+
+.portfolio-me a:hover {
+  color: #eaeaea;
 }
 
 .portfolio-bio p {
@@ -248,4 +252,11 @@ a.expanded:hover {
     background: rgba(255, 255, 255, 1);
     box-shadow: 3px 3px 10px #555;
     transition: ease-in .4s;
+}
+
+@media print, screen and (min-width: 40em) {
+  .one-project h1  {
+    font-size: 2rem;
+    padding-bottom: 0.5rem;
+  }
 }

@@ -5,7 +5,7 @@ For this project, I used node.js, the Express web application framework, and Pug
 The project displays six websites I created in which functionality was added using front-end JavaScript code.  The site also contains information about my career as a web developer, as well as a button allowing a user to view my resume.  
 ======= Error Processing ==========================
 
-If you request a page that doesn't exist or a project that doesn't exist, for example (localhost:3000/does-not-exist/ or localhost:3000/project/100/) you will see both a 404 error page and a console.log page indicating there was a 404 error.
+If you request a page that doesn't exist or a project that doesn't exist, for example (localhost:3000/does-not-exist/ or localhost:3000/project/100/) you will see both a 404 error page and a console.log message indicating there was a 404 error.
 
 ======= Design Modifications ======================
 

@@ -15,5 +15,6 @@ I made design modifications on all pages of the site.  The modifications were ad
 6) On the Portfolio of Projects page, I added box shadow and ease-in transitions to the hover state of each project's image.
 
 Screenshot of Portfolo of Projects page:
-![Unit06Example](https://user-images.githubusercontent.com/42808209/57050579-5cfde180-6c4b-11e9-9bd3-1b994420aa57.jpg)
+![Unit06-1Example](https://user-images.githubusercontent.com/42808209/57055560-34d1ab00-6c6a-11e9-9e6f-d7b0d559e632.jpg)
+
 

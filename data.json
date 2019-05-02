@@ -48,7 +48,7 @@
         {
             "id": 5,
             "project_name": "Responsive Design with Movable Modal Box",
-            "description": "I was given a .jpg file with a design for the first part of T.S. Eliot's The Waste Land.  I created a responsive design, using SCSS and HTML5, to replicate the image as web page.  In addition, I added modal notecards, so that when you click on a footnote, a modal notecard will appear with TS Eliot's footnotes and other information, as appropriate.  Except on mobile devices, the modal boxes can be moved about the screen by clicking and holding down the mouse on the modal notecard.",
+            "description": "I was given a .jpg file with a design for the first part of T.S. Eliot's The Waste Land.  I created a responsive design, using SCSS and HTML5, to replicate the image as a web page.  In addition, I added modal notecards, so that when you click on a footnote, a modal notecard will appear with TS Eliot's footnotes and other information, as appropriate.  Except on mobile devices, the modal boxes can be moved about the screen by clicking and holding down the mouse on the modal notecard.",
             "technologies": ["JavaScript", "SCSS (SASS)", "HTML5"],
             "live_link": "http://oit2.scps.nyu.edu/~iyengarl/final/app/",
             "github_link": "https://github.com/louiseiyengar/frontend-final",

@@ -1,7 +1,7 @@
 {
   "name": "treehouse-unit-06",
   "version": "1.0.0",
-  "description": "",
+  "description": "Front-end JavaScript projects site using Static Node.js and Express",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/louiseiyengar/treehouse-unit-06.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["Louise Iyengar", "web developer", "project portfolio", "portfolio"],
+  "author": "Louise Iyengar",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/louiseiyengar/treehouse-unit-06/issues"
   },

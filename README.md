@@ -1,6 +1,6 @@
 # FSJS project 6 - Front-end JavaScript projects site using Static Node.js and Express.
 
-For this project, I used Node.js, Express, and Pug for template rendering.  
+For this project, I used node.js, the Express web application framework, and Pug for template rendering.  
 
 The project displays six websites I created in which functionality was added using front-end JavaScript code.  The site also contains information about my career as a web developer, as well as a button allowing a user to view my resume.  
 ======= Error Processing ==========================

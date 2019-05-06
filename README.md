@@ -27,6 +27,7 @@ I made design modifications on all pages of the site.  The modifications were ad
 to start the server and application.  You should see the message: 'The application is running on localhost:3000'.
 5) Enter 'localhost:3000' in the address bar of your browser, and you should see the web page below.
 
+URL to view project: https://lki-portfolio.herokuapp.com/
 
 Screenshot of Portfolo of Projects page:
 ![Unit06-1Example](https://user-images.githubusercontent.com/42808209/57055560-34d1ab00-6c6a-11e9-9e6f-d7b0d559e632.jpg)
